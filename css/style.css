@@ -167,7 +167,7 @@ margin-left: 5px;
   font-size: 22px;
   line-height: 27px;
   color: white;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 /* contacts-section */
 .contacts-section-type {
@@ -175,15 +175,36 @@ margin-left: 5px;
   font-size: 14px;
   line-height: 24px;
   color: #ffffff;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 .contacts-section-link {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #565e6a;
+  color: #dfecff;
+  text-decoration: none;
 }
+.phone-margin-right{
+ margin-left: 100px;
+}
+.email-margin-right{
+ margin-left: 11px;
+}
+.telegram-margin-right{
+  margin-left: 137px;
+}
+.linkedin-margin-right{
+  margin-left: 63px;
+}
+.github-margin-right{
+  margin-left: 175px;
+}
+.contact-container{
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
 /* tech-skills */
 .skills-list {
   padding: 0 0 0 18px;
